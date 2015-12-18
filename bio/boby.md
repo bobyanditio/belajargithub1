@@ -4,4 +4,4 @@ Nama        : Boby Anditio
 
 Fakultas    : FTI
 
-Universitas : ITB
+Universitas : ITB   
