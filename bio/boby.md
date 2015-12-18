@@ -1,4 +1,5 @@
 ## Biodata
 
-Nama        : Boby Anditio
-Asal Daerah : Tangerang
+#Nama        : Boby Anditio
+
+#Asal Daerah : Tangerang
