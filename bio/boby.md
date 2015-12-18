@@ -2,4 +2,6 @@
 
 Nama        : Boby Anditio
 
-Asal Daerah : Tangerang
+Fakultas    : FTI
+
+Universitas : ITB
